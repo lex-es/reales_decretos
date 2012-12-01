@@ -1,49 +1,75 @@
-#Real Decreto 2/1997
+#Real Decreto 2/1977
 
-La Ley de diecisiete de julio de mil novecientos cincuenta y uno concedió el ingreso en la Escala Complementaria de su Arma o Cuerpo, en la que podían obtener hasta el empleo de Capitán, a los Alféreces Cadetes de las Armas y Cuerpos de Intendencia de los Ejércitos de Tierra y Aire y a los Alféreces de Fragata y Guardias Marinas del Cuerpo General de la Armada, Alféreces Alumnos equiparados a Guardias Marinas de los Cuerpos de Infantería de Marina, Máquinas e Intendencia de la Armada, que resultando con falta de aptitud física por accidente en acto de servicio, no alcanzarán el coeficiente preciso para su ingreso en el Cuerpo de Mutilados y a los que hubieran contraído alguna enfermedad en acto de servicio como consecuencia del régimen de formación de las Academias y Escuela Naval Militar.
+La reciente reforma introducida en el Código Penal por la Ley veintitrés/mil novecientos setenta y seis, de diecinueve de julio; el profundo cambio experimentado desde la instauración de los Juzgados y Tribunales de Orden Público y la necesidad, cada vez más patente y acusada, de que el enjuiciamiento de los hechos sometidos a la competencia de los mismos revierta a los Juzgados y Tribunales comunes del orden judicial penal, aconsejan la supresión de los referidos Organismos y la adopción de las medidas oportunas que sean consecuencia de la referida supresión.
 
-Declaradas a extinguir las Escalas Complementarias de los tres Ejércitos por la Ley de diecinueve de diciembre de mil novecientos cincuenta y uno, se promulgó la Ley de veinte de diciembre de mil novecientos cincuenta y dos, concediendo al personal a que se refiere el párrafo anterior y a los Alféreces y Cadetes de la Guardia Civil el ingreso en las Escalas activas o en la Escala de Tierra de sus Armas o Cuerpos, pudiendo obtener en ellas hasta el empleo de Capitán y desempeñar solamente destinos de carácter burocrático.
+En su virtud, a propuesta del Consejo de Ministros en su reunión del día treinta de diciembre de mil novecientos setenta y seis, en uso de la autorización concedida en el artículo trece de la Ley Constitutiva de las Cortes, textos refundidos de las Leyes Fundamentales del Reino, aprobados por Decreto de veinte de abril de mil novecientos sesenta y siete, y oída la Comisión a que se refiere el apartado primero del artículo doce de la citada Ley,
 
-Refundido en un único cuerpo legal todo lo relativo a Escalas y ascensos en los Cuerpos de Oficiales de la Armada por la Ley setenta y ocho/mil novecientos sesenta y ocho, de cinco de diciembre, y creada por la Ley dieciocho/mil novecientos setenta y cinco, de dos de mayo, la Escala de Tierra en el Ejército del Aire, parece conveniente revisar la legislación a que se refieren los dos párrafos anteriores con el fin de adaptarla a la nueva normativa legal.
+**DISPONGO:**
 
-Por otra parte, el Decreto-ley de dieciséis de junio de mil novecientos cincuenta y cuatro, concedió el pase a la Escala Auxiliar del Arma o Cuerpo respectivo a los Caballeros Alféreces de las Academias General Militar y de las Armas o Cuerpo de Intendencia del Ejercito de Tierra, que hayan de causar baja en ellas por no superar los estudios reglamentarios pudiendo alcanzar hasta el empleo de Comandante.
+###Artículo primero.
 
-Razones de equidad aconsejan proporcionar análogas posibilidades de alcanzar la misma categoría militar a los que causan baja por pérdida de aptitud física, por enfermedad o accidente, como consecuencia del régimen de formación de las Academias o Escuelas Militares y no obtengan puntuación suficiente para ingresar en el Cuerpo de Mutilados y a los que causen baja por no haber superado el plan de estudios en las Academias del Ejercito de Tierra.
-
-En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
-
-##Artículo primero.
-
-Los Caballeros Alféreces Cadetes de las Armas y Cuerpos de Intendencia de los Ejércitos de Tierra y Aire y de la Guardia Civil, que habiendo resultado con falta de aptitud física ocurrida en acto de servicio, no alcanzasen en su mutilación el coeficiente preciso para ser clasificados como mutilados absoluto y permanente y aquellos que contraigan alguna enfermedad en acto de servicio, como consecuencia del régimen de formación que se sigue en las Academias Militares y no resulten clasificados como «inutilizados por razón del servicio», ingresarán en las Escalas activas con el empleo de Alférez sin ocupar número en sus escalafones respectivos, y desempeñarán sólo destinos que su estado físico permita.
-
-Los Alféreces alumnos aspirantes a ingreso en la Escala del Aire del Arma de Aviación comprendidos en alguna de las circunstancias señaladas en el párrafo anterior, pasarán automáticamente a la Escala de Tierra, en la que seguirán las vicisitudes que la presente Ley determina, constituyendo una excepción a lo que especifica el artículo segundo de la Ley dieciocho/mil novecientos setenta y cinco, de reorganización del Arma de Aviación.
-
-Cumplidos tres años en el empleo de Alférez serán promovidos al empleo de Teniente, y cuando les corresponda el ascenso de acuerdo con las normas generales, podrán alcanzar los empleos de Capitán y Comandante, siempre que lo haya obtenido uno de la Escala Activa de su Arma o Cuerpo, que le siga en antigüedad, y que cumpla las demás condiciones de aptitud, a excepción de las físicas, señaladas por las disposiciones específicas en cada Ejército.
+Se suprimen el Tribunal y los Juzgados de Orden Público, creados por Ley ciento cincuenta y cuatro/mil novecientos sesenta y tres, de dos de diciembre, y Decreto mil trescientos catorce/mil novecientos setenta y dos, de trece de abril.
 
 ###Artículo segundo.
 
-También podrá alcanzar los empleos mencionados en el artículo anterior y en las condiciones que en el mismo se determinan, el personal comprendido en la Ley de veinte de diciembre de mil novecientos cincuenta y dos, sobre Ingreso en las Escalas Activas de los Alféreces Cadetes que causen baja en las Academias Militares por accidente o enfermedad contraída durante su permanencia en las mismas y el comprendido en la Ley de veintiséis de diciembre de mil novecientos cincuenta y ocho, por la que se da efecto retroactivo a las Leyes de diecisiete de julio de mil novecientos cincuenta y uno y veinte de diciembre de mil novecientos cincuenta y dos.
+La instrucción, conocimiento y fallo de las causas por los delitos que venían atribuidos a los órganos judiciales que se suprimen se atribuirán, en lo sucesivo, a los Juzgados y Tribunales a que correspondan conforme a las normas de competencia de la Ley de Enjuiciamiento Criminal.
 
 ###Artículo tercero.
 
-Por el Ministerio de Hacienda se habilitarán los créditos necesarios para el cumplimiento de lo dispuesto en la presente Ley, en los correspondientes presupuestos.
+Se crean en Madrid dos nuevos Juzgados de Instrucción, que se designarán con los números veintiuno y veintidós, y que comenzarán su funcionamiento el día de la entrada en vigor del presente Real Decreto-ley.
 
 ###Artículo cuarto.
 
-La presente Ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+Se faculta al Ministerio de Justicia para dictar las disposiciones que exija el desarrollo y efectividad del presente Real Decreto-ley, que entrará en vigor en el mismo día de su publicación en el «Boletín Oficial del Estado», y del que se dará cuenta inmediata a las Cortes.
 
-###Artículo quinto.
+##DISPOSICIONES TRANSITORIAS
 
-Se autoriza a los Ministerios del Ejercito y del Aire para que dicten las disposiciones convenientes para el desarrollo de esta Ley en sus respectivos Departamentos.
+###Primera.
+
+El Presidente y los Magistrados del suprimido Tribunal de Orden Público quedarán adscritos, con carácter provisional, a las Salas o Secciones de la Audiencia Territorial de Madrid que designe la Sala de Gobierno de la misma, conforme a las necesidades del servicio.
+
+Los Magistrados titulares de los Juzgados de Orden Público quedarán adscritos, con igual carácter provisional, a los Juzgados de Instrucción de Madrid que designe el Decano de los de Primera Instancia y de los de Instrucción, conforme a las necesidades del servicio.
+
+###Segunda.
+
+Las adscripciones a que se refiere la disposición anterior se mantendrán hasta que los referidos Presidentes y Magistrados obtengan destino en propiedad, a cuyo efecto tendrán obligación de tomar parte en los concursos que se convoquen para la provisión de plazas de su respectivo nivel orgánico en la Audiencia Territorial de Madrid o en los Juzgados de la misma capital. En los referidos concursos gozarán de preferencia, por una sola vez.
+
+Lo establecido en el párrafo anterior se entiende sin perjuicio de su derecho a participar voluntariamente en cualquier otro concurso que se convoque y sin que la preferencia otorgada pueda perjudicar los derechos de antigüedad de los Magistrados y Jueces que ya estuvieren destinados en la capital ni los de aquellos a que se refiere el artículo tercero del Decreto dos mil ciento sesenta/mil novecientos setenta y tres, de diecisiete de agosto.
+
+Respecto de los destinos obtenidos por aplicación del párrafo primero de esta disposición, no regirá lo dispuesto en la regla tercera, letra a) del artículo veintiséis del Reglamento Orgánico de la Carrera Judicial, de veintiocho de diciembre de mil novecientos sesenta y siete, modificado por Decreto de cinco de diciembre de mil novecientos setenta y cinco.
+
+###Tercera.
+
+Los Fiscales adscritos al Tribunal de Orden Público se incorporarán, también con carácter provisional, a la Fiscalía de la Audiencia Territorial de Madrid, quedando sujetos a lo establecido en la disposición transitoria segunda, en cuanto les sea de aplicación.
+
+###Cuarta.
+
+Los Secretarios, Médicos Forenses y personal auxiliar y subalterno del Tribunal y Juzgados que se suprimen quedarán adscritos, con carácter provisional, a la Audiencia Territorial y Juzgados de Primera Instancia e Instrucción de Madrid, respectivamente, cuyos Presidente y Decano los asignarán a las Secretarías de las distintas Salas o Secciones y Juzgados, de acuerdo con las necesidades del servicio, quedando sujetos a igual obligación de concursar y gozando de la misma preferencia que se establece en la disposición transitoria segunda.
+
+###Quinta.
+
+La adscripción provisional a que se refieren las disposiciones anteriores se hará sin menoscabo alguno de los derechos económicos que hasta ahora correspondían al personal adscrito.
+
+###Sexta.
+
+De los archivos y asuntos pendientes en los Juzgados que se suprimen por la presente disposición se harán cargo los Juzgados de Instrucción que se crean, los cuales continuarán la tramitación de los procedimientos que se hallen en curso, conforme a las normas procesales aplicables en las fechas de su incoación.
+
+###Séptima.
+
+Los archivos del Tribunal de Orden Público y las causas que en él se hallen en trámite pasarán a la Sección de la Audiencia Provincial de Madrid a que queden adscritos los Juzgados de Instrucción creados por el presente Real Decreto-ley, cuya Sección continuará y ultimará las causas pendientes por las normas de enjuiciamiento en vigor en las fechas de su iniciación.
+
+##DISPOSICIÓN ADICIONAL
+
+Como consecuencia de lo establecido en el artículo segundo del presente Real Decreto-ley, se amortizan en la Carrera Judicial cinco plazas de Magistrados; en la de la Carrera Fiscal, dos funcionarios de la categoría tercera y uno de la cuarta; en la del Secretariado de la Administración de Justicia, dos funcionarios de la categoría segunda de la Rama de Tribunales; en la de Oficiales de la Administración de Justicia, cinco funcionarios de la Rama de Tribunales; en la de Auxiliares de la Administración de Justicia, ocho funcionarios, y en la de Agentes Judiciales, tres funcionarios.
 
 ##DISPOSICIÓN DEROGATORIA
 
-Quedan derogados el artículo cuarto de la Ley de diecisiete de julio de mil novecientos cincuenta y uno y la de veinte de diciembre de mil novecientos cincuenta y dos, por lo que se refiere a los Ministerios del Ejercito y del Aire, y cuantas otras disposiciones se opongan a la presente Ley.
+Se derogan la Ley ciento cincuenta y cuatro/mil novecientos sesenta y tres, de dos de diciembre, modificada por la disposición adicional de la Ley cuarenta y cuatro/mil novecientos setenta y uno, de quince de noviembre; el Decreto mil trescientos trece/mil novecientos setenta y dos, de trece de abril, y cuantas disposiciones se opongan a lo establecido en este Real Decreto-ley.
 
-Dada en Madrid a cuatro de enero de mil novecientos setenta y siete.
+Dado en Madrid a cuatro de enero de mil novecientos setenta y siete.
 
 **JUAN CARLOS**
 
-El Presidente de las Cortes Españolas,
+El Presidente del Gobierno,
 
-**TORCUATO FERNÁNDEZ-MIRANDA Y HEVIA**
+**ADOLFO SUÁREZ GONZÁLEZ**

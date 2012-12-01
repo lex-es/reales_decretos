@@ -1,57 +1,49 @@
-#Real Decreto 3/1977
+#Real Drecreto 3/1977
 
-La Ley de veintitrés de diciembre de mil novecientos cuarenta y siete creó el Cuerpo de Inspectores Instructores Visitadores de Asistencia Pública, por fusión de los Cuerpos de Inspectores Visitadores e Instructores Visitadores de Asistencia Pública, que tenían atribuidas las funciones que se determinaron en Decreto de veintitrés de agosto de mil novecientos treinta y cuatro, Orden de veinticinco de agosto de mil novecientos treinta y cuatro y Decreto de dos de julio de mil novecientos treinta y cinco.
+La mejor y más adecuada delimitación de las distintas jurisdicciones requiere la paulatina revisión de la competencia que les está atribuida. En esta línea, se estima llegado el momento de dejar sin efecto aquellas competencias que en materia de terrorismo permanecen atribuidas a la jurisdicción militar.
 
-La configuración inicial del Cuerpo mencionado, congruente con la realidad social de su tiempo, ha quedado desfasada por las exigencias que los cambios sociales plantean al sector asistencial.
+Como solución transitoria, en tanto se lleve a cabo la revisión y eventual refundición de tipos, se incorporan como anexo al Código Penal Común los que hasta ahora figuraban en el Código de Justicia Militar.
 
-Por todo ello, resulta imprescindible la creación de un nuevo Cuerpo de Asistentes Sociales, que atienda esta función especial.
+En su virtud, a propuesta del Consejo de Ministros en su reunión del día treinta de diciembre de mil novecientos setenta y seis, en uso de la autorización conferida en el artículo trece de la Ley Constitutiva de las Cortes, texto refundido de las Leyes Fundamentales del Reino, aprobado por Decreto de veinte de abril de mil novecientos sesenta y siete, y oída la Comisión a que se refiere el apartado primero del artículo doce de la citada Ley,
 
-En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
+**DISPONGO:**
 
 ###Artículo primero.
 
-Uno. Se crea el Cuerpo Especial de Asistentes Sociales, cuya plantilla se fija en ciento trece plazas.
-
-Dos. El Cuerpo Especial de Asistentes Sociales dependerá del Ministerio de la Gobernación.
+La instrucción, conocimiento y fallo de las causas por los delitos de terrorismo corresponderá exclusivamente a los Juzgados Centrales de Instrucción y a la Audiencia Nacional, sin mas excepciones que las que resulten de la aplicación de los artículos noveno y trece del Código de Justicia Militar.
 
 ###Artículo segundo.
 
-Uno. Los cometidos a desarrollar por los funcionarios de este Cuerpo consistirán en la ejecución de actividades de trabajo social, de acuerdo con las normas que se establezcan reglamentariamente.
+1. A partir de la entrada en vigor del presente Real Decreto-ley figurarán como anexo al Código Penal Común los artículos doscientos noventa y cuatro bis a), doscientos noventa y cuatro bis b) y doscientos noventa y cuatro bis c), del Código de Justicia Militar, que se designarán, respectivamente, como artículos uno, dos y tres del citado anexo.
 
-Dos. Las funciones del Cuerpo se realizarán en los puestos de trabajo social de los servicios centrales y provinciales y Organismos dependientes del Ministerio de la Gobernación, sin perjuicio de que sus funcionarios puedan desempeñar puestos de trabajo propios de su especialidad en otros Centros y Dependencias de la Administración Civil del Estado.
+2. La pena de reclusión que se menciona en el apartado segundo de los tres preceptos citados deberá entenderse, con la extensión que actualmente tiene en el Código de Justicia Militar, de doce años y un día a treinta años.
 
 ###Artículo tercero.
 
-El ingreso en el Cuerpo Especial de Asistentes Sociales tendrá lugar mediante oposición libre entre quienes posean el titulo de Asistente Social y reúnan los requisitos generales para el ingreso en la Función Pública.
+Por los Ministerios de Justicia, Ejercito, Marina y Aire se dictarán las órdenes que exija en desarrollo y efectividad del presente Real Decreto-ley, que entrará en vigor el día de su publicación en el «Boletín Oficial del Estado», y del que se dará cuenta inmediata a las Cortes.
+
+##DISPOSICIÓN DEROGATORIA
+
+Se derogan los artículos doscientos noventa y cuatro bis d) y doscientos noventa y cuatro bis e) del Código de Justicia Militar, así como los artículos primero y segundo del Decreto-ley dos/mil novecientos setenta y seis, de diez de febrero.
 
 ##DISPOSICIONES TRANSITORIAS
 
 ###Primera.
 
-1. Se declara a extinguir el Cuerpo de Inspectores Instructores Visitadores de Asistencia Pública.
-
-2. Las plazas declaradas a extinguir se deducirán de la plantilla del Cuerpo de Asistentes Sociales establecido en el artículo primero, uno, de esta Ley. A medida que estas plazas se declaren extinguidas, acrecerá la plantilla del Cuerpo de Asistentes Sociales hasta el total de ciento trece plazas.
+Lo establecido en este Real Decreto-ley será aplicable a los procedimientos judiciales en tramitación, en los que no hubiere recaído sentencia, cualquiera que sea la jurisdicción que estuviere conociendo de ellos.
 
 ###Segunda.
 
-Quedarán integrados en el Cuerpo que se crea todos los funcionarios que a la entrada en vigor de esta Ley pertenezcan al Cuerpo de Inspectores Instructores Visitadores de Asistencia Pública y se encuentren en posesión del título de Asistente Social, o que hayan completado o completen diez años de servicios efectivos en el citado Cuerpo.
+Los Juzgados de Instrucción números veintiuno y veintidós de Madrid y la Sección de la Audiencia Provincial a que queden adscritos serán los competentes, respectivamente, para ultimar la instrucción y para el conocimiento y fallo de las causas a que se refiere la disposición transitoria anterior.
 
-##DISPOSICIONES FINALES
+###Tercera.
 
-###Primera.
+Los mismos órganos jurisdiccionales a que se refiere la disposición transitoria anterior serán los competentes para la instrucción, conocimiento y fallo de las causas incoadas con posterioridad a la entrada en vigor del presente Real Decreto-ley por los delitos a que el mismo se refiere, cuyos órganos la remitirán a los Juzgados Centrales de Instrucción y a la Audiencia Nacional, según el estado en que se hallen, una vez que aquéllos y ésta entren en servicio.
 
-1. Con independencia de la promulgación de la presente Ley, sus efectos económicos y las correspondientes dotaciones de las plazas previstas en el artículo primero, en relación con la disposición transitoria primera, dos, se producirán el día uno de enero de mil novecientos setenta y siete.
-
-2. Para la financiación de los gastos que originan las plazas creadas, se darán de baja los créditos correspondientes a las plazas que resulten amortizadas en el Cuerpo de Inspectores Instructores Visitadores de Asistencia Pública, como consecuencia de la integración, así como los créditos de contratación en la cuantía necesaria, en virtud de la autorización contenida en la Ley de Presupuestos.
-
-###Segunda.
-
-La integración en el Cuerpo Especial de Asistentes Sociales de los funcionarios de carrera pertenecientes al Cuerpo de Inspectores Instructores Visitadores de Asistencia Pública a que se refiere la disposición transitoria segunda se realizará de manera automática a la entrada en vigor de los efectos económicos de esta Ley, respetando la antigüedad, trienios, situación administrativa y toda clase de derechos personales consolidados al amparo de la legislación anterior.
-
-Dada en Madrid a cuatro de enero de mil novecientos setenta y siete.
+Dado en Madrid a cuatro de enero de mil novecientos setenta y siete.
 
 **JUAN CARLOS**
 
-El Presidente de las Cortes Españolas,
+El Presidente del Gobierno,
 
-**TORCUATO FERNANDEZ-MIRANDA Y HEVIA**
+**ADOLFO SUÁREZ GONZÁLEZ**
