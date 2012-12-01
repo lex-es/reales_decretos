@@ -1,5 +1,15 @@
 #Real Decreto 1/1977
 
+El Real Decreto-ley uno/mil novecientos setenta y siete, de cuatro de enero, en su artículo cuarto, atribuye a la Audiencia Nacional el conocimiento de determinados delitos por razón de las circunstancias concurrentes, el ámbito territorial a que alcanzan sus efectos o su comisión por bandas o grupos organizados. A tales delitos se agregaron nuevos tipos, entre ellos los de terrorismo y su apología, por Reales Decretos-leyes tres/ mil novecientos setenta y siete y tres/mil novecientos setenta y nueve, de cuatro y veintiséis de enero, respectivamente; y análogas razones a las que aquellos preceptos contemplan, se incorporan ahora otros supuestos, al mismo tiempo que se concretan con mayor precisión las circunstancias que han de concurrir en el delito de escándalo público para que su enjuiciamiento corresponda a la Audiencia Nacional.
+
+Por otra parte, no habiendo sido promulgada hasta el presente la Ley sobre Seguridad Ciudadana, y subsistiendo las graves circunstancias que motivaron la Ley cincuenta y seis/mil novecientos setenta y ocho, de cuatro de diciembre, que tiene limitada temporalmente su efectividad a un plazo de un año, a contar desde su promulgación se considera de notoria necesidad prorrogar la vigencia de dicha Ley.
+
+Aunque la competencia de la Audiencia Nacional es objeto de especial consideración en el Proyecto de Ley Orgánica del Poder Judicial remitido a las Cortes Generales, evidentes razones de extraordinaria y urgente necesidad hacen aconsejable llevar a cabo reformas y la prórroga indicadas mediante Real Decreto-ley, teniendo en cuenta, de un lado, la trascendencia social de los delitos que se contemplan y su repercusión en el ámbito nacional y, de otro, la finalidad de que no se rompa la continuidad de la acción dirigida a garantizar la seguridad ciudadana y la eficacia en la lucha contra la actuación de organizaciones o elementos terroristas.
+
+En su virtud, en uso de la autorización contenida en el artículo ochenta y seis de la Constitución y previa deliberación del Consejo de Ministros en su reunión del día veintitrés de noviembre de mil novecientos setenta y nueve,
+
+**DISPONGO:**
+
 ##Artículo primero.
 
 1. Se crea la Audiencia Nacional, con sede en Madrid constituida por una Sala de lo Penal y otra de lo Contencioso-Administrativo. Podrán crearse otras Salas, sin que puedan exceder de una por cada orden judicial.
